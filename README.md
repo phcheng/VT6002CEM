@@ -4,12 +4,15 @@ Welcome to the VT6002CEM Mobile App Development course repository.
 
 ## Course Structure
 
-- **Lesson 1 (T1):** 
-- **Lesson 2 (T2):** 
-- **Lesson 3 (T3):** 
-- **Lesson 4 (T4):** 
-- **Lesson 5 (T5):** 
-- **Lesson 6 (T6):** 
+- **Lesson 1 (L01):** 
+- **Lesson 2 (L02):** 
+- **Lesson 3 (L03):** 
+- **Lesson 4 (L04):** 
+- **Lesson 5 (L05):** 
+- **Lesson 6 (L06):**
+- **Lesson 7 (L07):** 
+- **Lesson 8 (L08):** 
+- **Lesson 9 (L09):** 
 
 ## Repository Structure
 
