@@ -4,7 +4,7 @@ import { useNavigation } from '@react-navigation/native';
 import ShowModal from './ShowModal';
 
 const HomeScreen = () => {
-  const API_URL = 'http://192.168.1.105:3000'; // Replace with your actual API URL
+  const API_URL = 'http://xxx.xxx.xxx.xxx:3000'; // Replace with your actual API URL
   const navigation = useNavigation();
 
   const [data, setData] = useState([]);
