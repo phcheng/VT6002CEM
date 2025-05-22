@@ -3,7 +3,7 @@ import { View, Text, StyleSheet, FlatList, TextInput, TouchableOpacity, Activity
 
 const Comments = ({ route }) => {
   const { id, title } = route.params;
-  const API_URL = 'http://10.104.80.76:3000'; // Replace with your actual API URL
+  const API_URL = 'http://xxx.xxx.xxx.xxx:3000'; // Replace with your actual API URL
 
   const [comments, setComments] = useState([]);
   const [loading, setLoading] = useState(true);
